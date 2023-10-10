@@ -1,7 +1,8 @@
+![logo](https://github.com/ar-inteligence/ar-inteligence/blob/main/Black%20Modern%20Geometric%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Azan Thakur</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw0GT7LXeB0MZbiZCZmK2nPx&ust=1697051941952000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjq2aGZ7IEDFQAAAAAdAAAAABAg">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-inteligence&label=Profile%20views&color=0e75b6&style=flat" alt="ar-inteligence" /> </p>
 
